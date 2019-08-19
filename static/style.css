@@ -1,0 +1,11 @@
+.navbar-collapse{
+  background-color:#333;
+}
+
+.navbar-collapse .navbar-nav>li>a{
+  color:white;
+}
+
+.navbar-collapse .navbar-brand{
+  color:white;
+}
