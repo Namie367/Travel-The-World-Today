@@ -58,6 +58,6 @@ def england():
 def intro():
   return render_template("introduction.html")
   
-
-app.run(debug=True, port='3000', host='0.0.0.0')
+if__name__ == "__main__":
+  app.run(debug=True, port='3000', host='0.0.0.0')
 
